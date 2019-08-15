@@ -5,5 +5,6 @@ export const CLIENTES: Cliente[] = [
   {id: 2, nombre:'Luis', apellido:'Saltarin', dateCreation:'1992-02-14', email:'saltarin@hotmail.com'},
   {id: 3, nombre:'Diandry', apellido:'Arias', dateCreation:'1994-08-10', email:'diandry@hotmail.com'},
   {id: 4, nombre:'Alejandra', apellido:'Cardona', dateCreation:'1998-12-20', email:'alejandra@hotmail.com'},
-  {id: 5, nombre:'Santiago', apellido:'Molina', dateCreation:'2010-04-11', email:'santiago@hotmail.com'}
+  {id: 5, nombre:'Santiago', apellido:'Molina', dateCreation:'2010-04-11', email:'santiago@hotmail.com'},
+  {id: 6, nombre:'Santiago', apellido:'Molina', dateCreation:'2010-04-11', email:'santiago@hotmail.com'}
 ];
